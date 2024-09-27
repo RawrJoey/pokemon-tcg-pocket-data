@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ga1-1",
+    "name": "Bulbasaur",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "NA",
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": "Ivysaur",
+    "attacks": [
+      {
+        "name": "Vine Whip",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "",
+      ""
+    ],
+    "convertedRetreatCost": 1,
+    "number": "1",
+    "artist": "Narumi Sato",
+    "rarity": "Diamond",
+    "flavorText": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+    "nationalPokedexNumbers": [
+      1
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://www.pokemon-zone.com/assets/uploads/2024/07/Bulbasaur-genetic-apex.webp",
+      "large": "https://www.pokemon-zone.com/assets/uploads/2024/07/Bulbasaur-genetic-apex.webp"
+    }
+  },
+  {
+    "id": "ga1-2",
+    "name": "Ivysaur",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "x",
+    "hp": "90",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Bulbasaur",
+    "attacks": [
+      {
+        "name": "Razor Leaf",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "2",
+    "artist": "Kurata So",
+    "rarity": "Diamond, Diamond",
+    "flavorText": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+    "nationalPokedexNumbers": [
+      2
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://www.pokemon-zone.com/assets/uploads/2024/09/genetic-apex-3-venusaur.webp",
+      "large": "https://www.pokemon-zone.com/assets/uploads/2024/09/genetic-apex-3-venusaur.webp"
+    }
+  },
+  {
+    "id": "ga1-3",
+    "name": "Venusaur",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "x",
+    "hp": "160",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": [
+      "Ivysaur"
+    ],
+    "attacks": [
+      {
+        "name": "Mega Drain",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80",
+        "text": "Heal 30 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "3",
+    "artist": "Ryota Murayama",
+    "rarity": "Rare Holo",
+    "flavorText": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "nationalPokedexNumbers": [
+      3
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://www.pokemon-zone.com/assets/uploads/2024/09/genetic-apex-3-venusaur.webp",
+      "large": "https://www.pokemon-zone.com/assets/uploads/2024/09/genetic-apex-3-venusaur.webp"
+    }
+  }
+]
